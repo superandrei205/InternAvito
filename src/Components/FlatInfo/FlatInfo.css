@@ -1,0 +1,25 @@
+.flat__info {
+    font-size: 16px;
+}
+
+.flat__info__price {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.flat__info__address {
+    font-size: inherit;
+    width: 450px;
+    margin: 10px 0;
+}
+
+.flat__info__sellerName {
+    font-size: inherit;
+}
+
+.flat__info__description {
+    margin: 10px 0 0 0;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+}

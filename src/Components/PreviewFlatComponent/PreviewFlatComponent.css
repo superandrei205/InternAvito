@@ -1,0 +1,40 @@
+.preview {
+    margin: 10px 10px 10px 0;
+    font-size: 14px;
+    line-height: normal;
+    cursor: pointer;
+}
+
+.preview:hover {
+    background-color: #ece8e8;
+    font-size: 15px;
+}
+
+.preview__details,
+.preview__price,
+.preview__adress {
+    max-width: 240px;
+    line-height: 22px;
+}
+
+.preview__link {
+    text-decoration: none;
+}
+
+.preview__link:visited {
+    color: none;
+}
+
+.preview__adress {
+    color: #999999;
+}
+
+.preview__details .preview__link {
+    font-weight: bold;
+    color: #95d7f8;
+}
+
+.preview__price .preview__link {
+    font-weight: bold;
+    color: #000000;
+}
